@@ -8,5 +8,5 @@ The methods that we have taken with simple TensorFlow have no applications other
 || Train accuracy | Train loss | Test accuracy | Test loss|
 |-|-|-|-|-|
 |Cifar10|0.99|0.004|0.74|2.37|
-|Mnist|1.0|3.97|0.98|0.18|
+|Mnist|0.99|0.006|0.98|0.07|
 |Titanic|0.78|0.4|0.91|0.3|
